@@ -3,15 +3,6 @@
 
 ---
 
-### 🌐 Portfolio
-<p align="center">
-  <a href="https://portfolio-rezig-abdelmalek-85ap.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezigmalek&show_icons=true&theme=radical" alt="stats" />
