@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Abdel Malek REZIG</h1>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI Enthusiast </h3>
 
-<!--
-**rezigmalek/rezigmalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="langs" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,php,laravel,python,java,ocaml,mysql,postgresql,git,github,docker,tensorflow" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
+  <a href="mailto:rezig.abdelmalek03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/abdel-malek-rezig-34301b333"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://discordapp.com/users/rezigmalek"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
+
+---
+
+### 🐍 My Contributions Snake
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+<h3 align="center">✨ "Code + Creativity = Innovation" ✨</h3>
