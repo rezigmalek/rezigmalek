@@ -3,11 +3,20 @@
 
 ---
 
+### 🌐 Portfolio
+<p align="center">
+  <a href="https://portfolio-rezig-abdelmalek-85ap.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezigmalek&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezigmalek&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezigmalek&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezig-abdelmalek&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezig-abdelmalek&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezig-abdelmalek&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
