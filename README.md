@@ -37,11 +37,4 @@
 
 ---
 
-### 🐍 My Contributions Snake
-<p align="center">
-  <img src="https://github.com/rezig-abdelmalek/rezig-abdelmalek/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 <h3 align="center">✨ "Code + Creativity = Innovation" ✨</h3>
